@@ -1,6 +1,6 @@
 /*Escreva um programa que solicite ao usuário dois números inteiros e exiba a soma deles.*/
 
-package fase01.L1E1;
+package fase01.Lista1.L1E1;
 
 import java.util.Scanner;
 

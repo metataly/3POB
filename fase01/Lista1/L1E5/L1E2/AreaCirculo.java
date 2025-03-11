@@ -1,6 +1,6 @@
 /*Desenvolva um programa que leia o raio de um círculo e calcule sua área.*/
 
-package fase01.L1E2;
+package fase01.Lista1.L1E5.L1E2;
 
 import java.util.Scanner;
 

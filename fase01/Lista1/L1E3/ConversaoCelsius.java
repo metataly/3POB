@@ -1,6 +1,6 @@
 /*Crie um programa que leia uma temperatura em graus Celsius e a converta para Fahrenheit. */
 
-package fase01.L1E3;
+package fase01.Lista1.L1E3;
 
 import java.util.Scanner;
 

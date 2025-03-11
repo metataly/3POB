@@ -4,7 +4,7 @@ Fórmula:
 V = (4/3) * π * raio³.
 Use π = 3.14159.*/
 
-package fase01.L1E8;
+package fase01.Lista1.L1E8;
 
 import java.util.Scanner;
 

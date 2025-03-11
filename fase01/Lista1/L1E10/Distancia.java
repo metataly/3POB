@@ -5,7 +5,7 @@ Fórmula:
 D = sqrt((x2 - x1)² + (y2 - y1)²) 
 */
 
-package fase01.L1E10;
+package fase01.Lista1.L1E10;
 
 import java.util.Scanner;
 

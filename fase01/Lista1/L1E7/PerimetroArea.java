@@ -5,7 +5,7 @@ Fórmulas:
 Área = base × altura
 Perímetro = 2 × (base + altura). */
 
-package fase01.L1E7;
+package fase01.Lista1.L1E7;
 
 import java.util.Scanner;
 

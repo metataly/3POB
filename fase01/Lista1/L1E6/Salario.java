@@ -2,7 +2,7 @@
 Escreva um programa que receba o salário bruto de um funcionário 
 e o valor de desconto do INSS. O programa deve calcular e exibir o salário líquido.*/
 
-package fase01.L1E6;
+package fase01.Lista1.L1E6;
 
 import java.util.Scanner;
 

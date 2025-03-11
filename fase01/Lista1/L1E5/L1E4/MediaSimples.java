@@ -1,7 +1,7 @@
 /*Faça um programa que solicite ao usuário três notas (valores decimais)
  e exiba a média aritmética delas.*/
 
-package fase01.L1E4;
+package fase01.Lista1.L1E5.L1E4;
 
 import java.util.Scanner;
 

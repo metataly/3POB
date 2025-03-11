@@ -2,7 +2,7 @@
     aproximada de dias que ela já viveu.
     Considere um ano com 365 dias. */
 
-package fase01.L1E5;
+package fase01.Lista1.L1E5;
 
 import java.util.Scanner;
 

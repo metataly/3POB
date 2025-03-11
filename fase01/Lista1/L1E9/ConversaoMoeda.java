@@ -1,7 +1,7 @@
  /*Faça um programa que leia um valor em reais (R$) e a cotação do dólar no dia. 
  O programa deve calcular e exibir o valor equivalente em dólares (US$). */
 
-package fase01.L1E9;
+package fase01.Lista1.L1E9;
 
 import java.util.Scanner;
 
