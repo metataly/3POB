@@ -1,5 +1,5 @@
 // Pacote dominio
-package dominio;
+package fase06.L6E1.dominio;
 
 public class ContaBancaria {
     private String titular;

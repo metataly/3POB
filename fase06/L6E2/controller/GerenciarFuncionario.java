@@ -1,4 +1,4 @@
-package faze06.L6E2.controller;
+package fase06.L6E2.controller;
 
 import java.util.Scanner;
 import fase06.L6Exercicio02.dominio.Funcionario;

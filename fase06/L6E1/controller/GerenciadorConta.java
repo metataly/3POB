@@ -1,5 +1,5 @@
 // Pacote controle
-package controle;
+package fase06.L6E1.controller;
 
 import dominio.ContaBancaria;
 import java.util.Scanner;

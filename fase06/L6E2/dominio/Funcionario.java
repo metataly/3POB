@@ -1,4 +1,4 @@
-package faze06.L6E2.dominio;
+package fase06.L6E2.dominio;
 
 public class Funcionario {
     private String nome;

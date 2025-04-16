@@ -1,4 +1,4 @@
-package fase06.L6E3.controle;
+package fase06.L6E3.controller;
 
 import java.util.Scanner;
 import fase06.L6Exercicio03.dominio.Elevador;
