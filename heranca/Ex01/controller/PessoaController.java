@@ -10,9 +10,10 @@ public class PessoaController {
 
         Pessoa p = new Pessoa("João", 40);
         Aluno a = new Aluno("Maria", 20, "Engenharia");
+        Professor prof = new Professor("Lucas", 30, 5000);
 
         p.exibirDados();
         a.exibirDados();
-
+        prof.exibirDados(); 
     }
 }
