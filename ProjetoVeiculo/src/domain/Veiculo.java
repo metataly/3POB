@@ -1,6 +1,6 @@
 package domain;
 
-public abstract Veiculo implements Exibivel{
+public abstract class Veiculo implements Exibivel{
     private String placa;
     private String modelo;
     private int ano;
